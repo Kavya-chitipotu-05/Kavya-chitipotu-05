@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,web development,DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email- kavyachitipotu05@gmail.com
--                     linkdein -https://www.linkedin.com/in/kavya-chitipotu-343272237
+-                     linkdein -https://www.linkedin.com/in/kavya-chitipotu-827502274/
 
 <!---
 Kavya-chitipotu-05/Kavya-chitipotu-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
